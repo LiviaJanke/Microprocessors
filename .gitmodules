@@ -1,3 +1,6 @@
 [submodule "MicroprocessorsLab2"]
 	path = MicroprocessorsLab2
 	url = https://github.com/ImperialCollegeLondon/MicroprocessorsLab.git
+[submodule "MicroprocessorsLab"]
+	path = MicroprocessorsLab
+	url = https://github.com/ImperialCollegeLondon/MicroprocessorsLab.git
